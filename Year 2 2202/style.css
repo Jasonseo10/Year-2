@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+.topnav {
+    background-color: #07006b;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.topnav a:hover {
+    background-color: add;
+    color: rgb(6, 34, 211);
+
+}
+
+.topnav a.active{
+    background-color: #2ad3c8;
+    color: white;
+}
+
+body {
+    background-color: rgb(233, 148, 117); 
+}
+
+.image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.About-Me{
+    background-color: black;
+
+}
+
+.footer {
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rgb(52, 6, 190);
+color: white;
+text-align: center;
+}
